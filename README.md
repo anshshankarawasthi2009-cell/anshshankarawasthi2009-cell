@@ -16,11 +16,17 @@
 - 🔭 I’m currently building **AI-powered applications** and sleek web interfaces.
 - 🌱 Exploring the world of **Large Language Models (LLMs)** and **Neural Networks**.
 - ⚡ I love turning complex problems into simple, beautiful code.
+- 📫 How to reach me: **[Add Your Email Here]**
 
+<p align="left">
+  <a href="https://github.com/anshshankarawasthi2009-cell">
+    <img src="https://img.shields.io/github/followers/anshshankarawasthi2009-cell?label=Follow%20Me&style=social" />
+  </a>
+</p>
 
 ---
 
-### 🛠 Tech Stack (Animated Logos)
+### 🛠 Tech Stack (Moving Icons)
 
 #### 🌐 Web Development & IDE
 <p align="left">
@@ -39,5 +45,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshshankarawasthi2009-cell&label=Profile%20Views&color=00b4d8&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=anshshankarawasthi2009-cell&label=Profile%20Views&color=00b4d8&style=flat" alt="Views Counter" />
 </p>
