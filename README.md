@@ -16,8 +16,7 @@
 - 🔭 I’m currently building **AI-powered applications** and sleek web interfaces.
 - 🌱 Exploring the world of **Large Language Models (LLMs)** and **Neural Networks**.
 - ⚡ I love turning complex problems into simple, beautiful code.
-- 📫 How to reach me: **[Add Your Email Here]**
-
+  
 <p align="left">
   <a href="https://github.com/anshshankarawasthi2009-cell">
     <img src="https://img.shields.io/github/followers/anshshankarawasthi2009-cell?label=Follow%20Me&style=social" />
